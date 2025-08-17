@@ -33,3 +33,6 @@ models/
 *.pkl
 *.pt
 *.h5
+
+# Sensitive files
+keys.py
